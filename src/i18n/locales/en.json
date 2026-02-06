@@ -12,12 +12,23 @@
   },
   "menu": {
     "play": "Play",
-    "playDescription": "Find the odd symbol out",
-    "timeAttack": "Time Attack",
-    "timeAttackDescription": "Race against the clock",
-    "zen": "Zen Mode",
-    "zenDescription": "No pressure, just puzzles",
-    "daily": "Daily Challenge",
-    "dailyDescription": "A new puzzle every day"
+    "playDescription": "Find the odd symbol out"
+  },
+  "game": {
+    "task1Title": "Find the most repeated symbol",
+    "task1Description": "One symbol appears on more cards than any other. Select it below.",
+    "task2Title": "Find all unique symbols",
+    "task2Description": "Some symbols appear on only one card. Select all of them.",
+    "task3Title": "Find the card with no unique symbols",
+    "task3Description": "One card has no symbols that are exclusive to it. Click it above.",
+    "verify": "Verify Answers",
+    "correct": "Correct!",
+    "incorrect": "Incorrect. The answer was",
+    "task2Result": "{{correct}} correct, {{missed}} missed, {{wrong}} wrong",
+    "task3Selected": "Selected: Card {{card}}",
+    "card": "Card",
+    "score": "Score: {{score}} / {{total}}",
+    "playAgain": "Play Again",
+    "backToMenu": "Back to Menu"
   }
 }

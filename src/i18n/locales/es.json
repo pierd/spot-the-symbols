@@ -12,12 +12,23 @@
   },
   "menu": {
     "play": "Jugar",
-    "playDescription": "Encuentra el simbolo diferente",
-    "timeAttack": "Contrarreloj",
-    "timeAttackDescription": "Compite contra el tiempo",
-    "zen": "Modo Zen",
-    "zenDescription": "Sin presion, solo rompecabezas",
-    "daily": "Desafio diario",
-    "dailyDescription": "Un nuevo rompecabezas cada dia"
+    "playDescription": "Encuentra el simbolo diferente"
+  },
+  "game": {
+    "task1Title": "Encuentra el simbolo mas repetido",
+    "task1Description": "Un simbolo aparece en mas tarjetas que cualquier otro. Seleccionalo abajo.",
+    "task2Title": "Encuentra todos los simbolos unicos",
+    "task2Description": "Algunos simbolos aparecen solo en una tarjeta. Seleccionalos todos.",
+    "task3Title": "Encuentra la tarjeta sin simbolos unicos",
+    "task3Description": "Una tarjeta no tiene simbolos exclusivos. Haz clic en ella arriba.",
+    "verify": "Verificar respuestas",
+    "correct": "Correcto!",
+    "incorrect": "Incorrecto. La respuesta era",
+    "task2Result": "{{correct}} correctos, {{missed}} omitidos, {{wrong}} incorrectos",
+    "task3Selected": "Seleccionada: Tarjeta {{card}}",
+    "card": "Tarjeta",
+    "score": "Puntuacion: {{score}} / {{total}}",
+    "playAgain": "Jugar de nuevo",
+    "backToMenu": "Volver al menu"
   }
 }
