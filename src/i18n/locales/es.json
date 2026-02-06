@@ -1,0 +1,23 @@
+{
+  "app": {
+    "title": "Spot the Symbols",
+    "subtitle": "Pon a prueba tu capacidad de observacion con rompecabezas de simbolos",
+    "footer": "Un juego de rompecabezas visual"
+  },
+  "language": {
+    "label": "Idioma",
+    "en": "Ingles",
+    "pl": "Polaco",
+    "es": "Espanol"
+  },
+  "menu": {
+    "play": "Jugar",
+    "playDescription": "Encuentra el simbolo diferente",
+    "timeAttack": "Contrarreloj",
+    "timeAttackDescription": "Compite contra el tiempo",
+    "zen": "Modo Zen",
+    "zenDescription": "Sin presion, solo rompecabezas",
+    "daily": "Desafio diario",
+    "dailyDescription": "Un nuevo rompecabezas cada dia"
+  }
+}

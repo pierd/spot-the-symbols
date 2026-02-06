@@ -1,0 +1,23 @@
+{
+  "app": {
+    "title": "Spot the Symbols",
+    "subtitle": "Test your observation skills with symbol puzzles",
+    "footer": "A visual puzzle game"
+  },
+  "language": {
+    "label": "Language",
+    "en": "English",
+    "pl": "Polish",
+    "es": "Spanish"
+  },
+  "menu": {
+    "play": "Play",
+    "playDescription": "Find the odd symbol out",
+    "timeAttack": "Time Attack",
+    "timeAttackDescription": "Race against the clock",
+    "zen": "Zen Mode",
+    "zenDescription": "No pressure, just puzzles",
+    "daily": "Daily Challenge",
+    "dailyDescription": "A new puzzle every day"
+  }
+}

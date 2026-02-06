@@ -1,0 +1,23 @@
+{
+  "app": {
+    "title": "Spot the Symbols",
+    "subtitle": "Sprawdz swoja spostrzegawczosc w zagadkach z symbolami",
+    "footer": "Wizualna gra logiczna"
+  },
+  "language": {
+    "label": "Jezyk",
+    "en": "Angielski",
+    "pl": "Polski",
+    "es": "Hiszpanski"
+  },
+  "menu": {
+    "play": "Graj",
+    "playDescription": "Znajdz niepasujacy symbol",
+    "timeAttack": "Na czas",
+    "timeAttackDescription": "Wyscig z zegarem",
+    "zen": "Tryb Zen",
+    "zenDescription": "Bez presji, same zagadki",
+    "daily": "Wyzwanie dnia",
+    "dailyDescription": "Nowa zagadka codziennie"
+  }
+}
