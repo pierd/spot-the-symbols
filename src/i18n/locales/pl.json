@@ -1,34 +1,34 @@
 {
   "app": {
     "title": "Spot the Symbols",
-    "subtitle": "Sprawdz swoja spostrzegawczosc w zagadkach z symbolami",
+    "subtitle": "Sprawdź swoją spostrzegawczość w zagadkach z symbolami",
     "footer": "Wizualna gra logiczna"
   },
   "language": {
-    "label": "Jezyk",
+    "label": "Język",
     "en": "Angielski",
     "pl": "Polski",
-    "es": "Hiszpanski"
+    "es": "Hiszpański"
   },
   "menu": {
     "play": "Graj",
-    "playDescription": "Znajdz niepasujacy symbol"
+    "playDescription": "Znajdź niepasujący symbol"
   },
   "game": {
-    "task1Title": "Znajdz najczesciej powtarzany symbol",
-    "task1Description": "Jeden symbol pojawia sie na wiekszej liczbie kart niz jakikolwiek inny. Wybierz go ponizej.",
-    "task2Title": "Znajdz wszystkie unikalne symbole",
-    "task2Description": "Niektore symbole pojawiaja sie tylko na jednej karcie. Zaznacz je wszystkie.",
-    "task3Title": "Znajdz karte bez unikalnych symboli",
-    "task3Description": "Jedna karta nie ma symboli wylacznych dla niej. Kliknij ja powyzej.",
-    "verify": "Sprawdz odpowiedzi",
+    "task1Title": "Znajdź najczęściej powtarzany symbol",
+    "task1Description": "Jeden symbol pojawia się na większej liczbie kart niż jakikolwiek inny. Wybierz go poniżej.",
+    "task2Title": "Znajdź wszystkie unikalne symbole",
+    "task2Description": "Niektóre symbole pojawiają się tylko na jednej karcie. Zaznacz je wszystkie.",
+    "task3Title": "Znajdź kartę bez unikalnych symboli",
+    "task3Description": "Jedna karta nie ma symboli wyłącznych dla niej. Kliknij ją powyżej.",
+    "verify": "Sprawdź odpowiedzi",
     "correct": "Dobrze!",
-    "incorrect": "Zle. Prawidlowa odpowiedz to",
-    "task2Result": "{{correct}} poprawnych, {{missed}} pominieto, {{wrong}} blednych",
+    "incorrect": "Źle. Prawidłowa odpowiedź to",
+    "task2Result": "{{correct}} poprawnych, {{missed}} pominiętych, {{wrong}} błędnych",
     "task3Selected": "Wybrana: Karta {{card}}",
     "card": "Karta",
     "score": "Wynik: {{score}} / {{total}}",
     "playAgain": "Zagraj ponownie",
-    "backToMenu": "Powrot do menu"
+    "backToMenu": "Powrót do menu"
   }
 }
