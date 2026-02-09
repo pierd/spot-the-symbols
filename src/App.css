@@ -226,7 +226,7 @@ body {
   aspect-ratio: 1;
   max-width: 190px;
   border-radius: 50%;
-  background: var(--bg-card);
+  background: #f0ecf5;
   border: 2px solid var(--border-color);
   cursor: pointer;
   transition: all 0.2s ease;
@@ -248,7 +248,7 @@ body {
 .symbol-card--selected {
   border-color: var(--accent-primary);
   box-shadow: 0 0 25px var(--accent-glow-strong);
-  background: var(--bg-tertiary);
+  background: #e4d8f0;
 }
 
 .symbol-card--correct {
